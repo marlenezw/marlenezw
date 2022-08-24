@@ -41,26 +41,22 @@
     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
 </p>
 
-## 📘 Top python projects
+<h2 align="center">
+📘 Top python projects
+</h2>
 
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
-<p align="left">
+<p align="center">
   <a href="https://github.com/marlenezw/animate-a-video"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=marlenezw&repo=animate-a-video&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="animate-a-video"></a>
   <a href="https://github.com/marlenezw/photo-to-video"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=marlenezw&repo=photo-to-video&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="photo-to-video"></a>
-  <a href="https://github.com/DenverCoder1/custom-icon-badges"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=DenverCoder1&repo=custom-icon-badges&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges"></a>
-  <a href="https://github.com/DenverCoder1/unicode-formatter"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=unicode-formatter&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="unicode-formatter"></a>
-  <a href="https://github.com/DenverCoder1/unedit-for-reddit"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=unedit-for-reddit&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="unedit-for-reddit"></a>
-  <a href="https://github.com/DenverCoder1/table2ascii"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=table2ascii&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="table2ascii"></a>
-  <a href="https://github.com/DenverCoder1/latex-gboard-dictionary"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=latex-gboard-dictionary&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=a02cfd&show_icons=false&show_description=false" alt="latex-gboard-dictionary"></a>
-  <a href="https://github.com/DenverCoder1/minimalistic-wallpaper-collection"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=minimalistic-wallpaper&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=a02cfd&show_icons=false&show_description=false" alt="minimalistic-wallpaper-collection"></a>
-  <a href="https://github.com/DenverCoder1/doxygen-github-pages-action"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=doxygen-github-pages-action&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="doxygen-github-pages-action"></a>
-  <a href="https://github.com/DenverCoder1/discord-bot-template"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=discord-bot-template&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="discord-bot-template"></a>
-  <a href="https://github.com/DenverCoder1/readme-download-button-action"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=readme-download-button-action&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="readme-download-button-action"></a>
-  <a href="https://github.com/DenverCoder1/dynamic-badge-formatter"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=dynamic-badge-formatter&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="dynamic-badge-formatter"></a>
+  <a href="https://github.com/marlenezw/text-to-audiobook"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=marlenezw&repo=text-to-audiobook&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="text-to-audiobook"></a>
+  <a href="https://github.com/marlenezw/animate-an-image"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=animate-an-image&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="animate-an-image"></a>
+  <a href="https://github.com/marlenezw/send-whatsapp-message"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=send-whatsapp-message&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="send-whatsapp-message"></a>
+  <a href="https://github.com/marlenezw/speech-to-text"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=speech-to-text&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="speech-to-text"></a>
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 
