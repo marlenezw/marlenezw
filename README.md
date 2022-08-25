@@ -14,13 +14,13 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/marlene_zw"><img width="32px" alt="Twitter" title="Twitter" src="https://github.com/marlenezw/marlenezw/blob/main/twitter.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/fPrdqh3Zfu" alt="Dev Pro Tips Discussion & Support Server"><img width="32px" height="26px" padding-top="30px"  src="https://github.com/marlenezw/marlenezw/blob/main/mylinkedinicon.png"/></a>
+  <a href="https://www.linkedin.com/in/marlenemhangami/" alt="Marlene's linkedin"><img width="32px" height="26px"  src="https://github.com/marlenezw/marlenezw/blob/main/mylinkedinicon.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/denvercoder1"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://github.com/marlenezw/marlenezw/blob/main/mymediumicon.png"></a>
+  <a href="https://medium.com/@marlenezw"><img width="32px" height="25px" alt="Medium" title="Marlene's medium page" src="https://github.com/marlenezw/marlenezw/blob/main/mymediumicon.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://github.com/marlenezw/marlenezw/blob/main/coffee.png"/></a>
+  <a href="https://ko-fi.com/marlene_zw"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://github.com/marlenezw/marlenezw/blob/main/coffee.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://github.com/marlenezw/marlenezw/blob/main/gift.png"/></a>
+  <a href="https://marlenemhangami.com/"><img width="32px" alt="More content" title="More content on my website" src="https://github.com/marlenezw/marlenezw/blob/main/gift.png"/></a>
 </p>
 
 <br/>
@@ -144,7 +144,7 @@
 
 <h3 align="center">
   <img src="https://media.giphy.com/media/SEhNCww9vGLAc/giphy.gif" width="28">
-  <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
+  <a href="https://www.youtube.com/channel/UCl3aV8OUXRroWvvAiU66DOw?sub_confirmation=1">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.herokuapp.com/youtube/channel/subscribers/UCipSxT7a3rn81vGLw9lqRkg?color=a02cfd&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=a02cfd"/></a> 
  <img src="https://media.giphy.com/media/SEhNCww9vGLAc/giphy.gif" width="28">
   
