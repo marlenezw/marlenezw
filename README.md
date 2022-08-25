@@ -42,7 +42,7 @@
 </p>
 
 <h2 align="center">
-📘 Top python projects
+📘 Python projects
 </h2>
 
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
