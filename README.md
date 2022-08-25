@@ -3,16 +3,16 @@
  <img src="https://media.giphy.com/media/27UtynCENEhLgiAmik/giphy.gif" width="28">
 </h3>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<!-- Anime GIF by marlenezw - https://github.com/marlenezw/marlenezw/blob/main/animee.gif -->
 <p align="center">
   <a href="https://github.com/marlenezw/marlenezw/blob/main/animee.gif"><img src="https://github.com/marlenezw/marlenezw/blob/main/animee.gif"></a>
 </p>
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.youtube.com/c/DevProTips"><img width="32px" alt="Youtube" title="Youtube" src="https://github.com/marlenezw/marlenezw/blob/main/purpleyoutube.png"/></a>
+  <a href="https://www.youtube.com/channel/UCl3aV8OUXRroWvvAiU66DOw"><img width="32px" alt="Youtube" title="Youtube" src="https://github.com/marlenezw/marlenezw/blob/main/purpleyoutube.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/DenverCoder1"><img width="32px" alt="Twitter" title="Twitter" src="https://github.com/marlenezw/marlenezw/blob/main/twitter.png"/></a>
+  <a href="https://twitter.com/marlene_zw"><img width="32px" alt="Twitter" title="Twitter" src="https://github.com/marlenezw/marlenezw/blob/main/twitter.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.gg/fPrdqh3Zfu" alt="Dev Pro Tips Discussion & Support Server"><img width="32px" src="https://github.com/marlenezw/marlenezw/blob/main/discord.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
