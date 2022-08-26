@@ -1,3 +1,5 @@
+<!-- code inspired by - https://github.com/DenverCoder1 -->
+
 <h3 align="center">
   Welcome to Marlene Mhangami's Github!
  <img src="https://media.giphy.com/media/27UtynCENEhLgiAmik/giphy.gif" width="28">
@@ -27,17 +29,17 @@
 
 <!-- Social badges section -->
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
-<!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
+<!-- View counter - https://github.com/antonkomarev/github-profile-views-counter -->
 <p align="center">
   <a href="https://www.youtube.com/channel/UCl3aV8OUXRroWvvAiU66DOw?sub_confirmation=1">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.herokuapp.com/youtube/channel/subscribers/UCl3aV8OUXRroWvvAiU66DOw?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
   <a href="https://www.youtube.com/channel/UCl3aV8OUXRroWvvAiU66DOw">
     <img alt="follow twitter" title="Follow Twitter" src="https://img.shields.io/twitter/follow/marlene_zw?color=%23E1AD0E&logo=person-fill&label=twitter&style=for-the-badge&labelColor=C79600"/></a> 
-  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers">
+  <a href="https://github.com/marlenezw?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/github/stars/marlenezw?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/marlenezw?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/marlenezw?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/DenverCoder1/Simple-View-Counter">
+  <a href="https://komarev.com/ghpvc/?username=marlenezw">
     <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=marlenezw&style=for-the-badge&color=grey"/></a>
 </p>
 
@@ -75,25 +77,12 @@
   <a href="https://github.com/marlenezw?tab=repositories&q=&type=fork&language=&sort="><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Forks-2962FF?style=for-the-badge&logoColor=white&logo=fork"/></a>
 </p>
 
-<!-- <h2 align="center">
- 💜 Streak stats
-</h2>
-
-<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-<!-- <p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Marlenezw's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=marlenezw&theme=monokai-metallian&hide_border=true"/>
-  </a>
-  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
-</p> --> 
-
-<!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
-
 <h2 align="center">
  🛠️ My favorite tools
 </h2>
 
 <p align="center">
+  <p align="left">
    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
@@ -128,19 +117,12 @@
     <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obs-studio&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    </p align="left">
 </p align="center">
 
 <h2 align="center">
  📺 YouTube videos
 </h2>
-
-<!-- Feed workflow - https://github.com/gautamkrishnar/blog-post-workflow -->
-<!-- YouTube Cards - by DenverCoder1 (no public repo) -->
-
-<h3 align="center">
-  
-  <img src="https://media.giphy.com/media/qJMY7RSzj1vK7Lu23n/giphy.gif" width="130">
-</h3>
 
 <h3 align="center">
   <img src="https://media.giphy.com/media/SEhNCww9vGLAc/giphy.gif" width="28">
@@ -149,16 +131,3 @@
  <img src="https://media.giphy.com/media/SEhNCww9vGLAc/giphy.gif" width="28">
   
  </h3>
-
-<!-- <p align="center">
-  <a href="https://media.giphy.com/media/dLmEzHozhc9WbTkwPa/giphy.gif"><img src="https://media.giphy.com/media/SEhNCww9vGLAc/giphy.gif"></a>
-  
-</p align="center">
-
-<p align="center">
-  
-[<img src="https://custom-icon-badges.herokuapp.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white" align="center" />](https://www.youtube.com/c/DevProTips?sub_confirmation=1)
-  </p> -->
-
-
-
