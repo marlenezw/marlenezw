@@ -1,9 +1,9 @@
 <!-- code inspired by - https://github.com/DenverCoder1 -->
 
-<h3 align="center">
+<h2 align="center">
   Welcome to Marlene Mhangami's Github!
- <img src="https://media.giphy.com/media/27UtynCENEhLgiAmik/giphy.gif" width="28">
-</h3>
+ <img src="https://media.giphy.com/media/27UtynCENEhLgiAmik/giphy.gif" width="28" height="25">
+</h2>
 
 <!-- Anime GIF by marlenezw - https://github.com/marlenezw/marlenezw/blob/main/animee.gif -->
 <p align="center">
