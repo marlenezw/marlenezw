@@ -2,7 +2,7 @@
 
 <h2 align="center">
   Welcome to Marlene Mhangami's Github!
- <img src="https://media.giphy.com/media/27UtynCENEhLgiAmik/giphy.gif" width="28" height="25">
+ <img src="https://media.giphy.com/media/27UtynCENEhLgiAmik/giphy.gif" width="22" height="22">
 </h2>
 
 <!-- Anime GIF by marlenezw - https://github.com/marlenezw/marlenezw/blob/main/animee.gif -->
