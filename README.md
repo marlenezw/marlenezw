@@ -56,6 +56,9 @@
   <a href="https://github.com/marlenezw/animate-an-image"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=marlenezw&repo=animate-an-image&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="animate-an-image"></a>
   <a href="https://github.com/marlenezw/send-whatsapp-message"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=marlenezw&repo=send-whatsapp-message&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="send-whatsapp-message"></a>
   <a href="https://github.com/marlenezw/speech-to-text"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=marlenezw&repo=speech-to-text&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="speech-to-text"></a>
+  <a href="https://github.com/marlenezw/ibis-tutorial"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=marlenezw&repo=ibis-tutorial&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="ibis-tutorial"></a>
+  <a href="https://github.com/marlenezw/awesome-arrow-python"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=marlenezw&repo=awesome-arrow-python&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="awesome-arrow-python"></a>
+  <a href="https://github.com/marlenezw/learn-python"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=marlenezw&repo=learn-python&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="learn-python"></a>
 </p>
 
 <p align="center">
