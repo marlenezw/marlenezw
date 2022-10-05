@@ -50,6 +50,7 @@
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 <p align="center">
+  <a href="https://github.com/marlenezw/face-and-body-detector-with-mediapipe"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=marlenezw&repo=face-and-body-detector-with-mediapipe&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="face-and-body-detector-with-mediapipe"></a>
   <a href="https://github.com/marlenezw/animate-a-video"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=marlenezw&repo=animate-a-video&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="animate-a-video"></a>
   <a href="https://github.com/marlenezw/photo-to-video"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=marlenezw&repo=photo-to-video&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="photo-to-video"></a>
   <a href="https://github.com/marlenezw/text-to-audiobook"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=marlenezw&repo=text-to-audiobook&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="text-to-audiobook"></a>
