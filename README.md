@@ -12,7 +12,7 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.youtube.com/channel/UCl3aV8OUXRroWvvAiU66DOw"><img width="32px" alt="Youtube" title="Youtube" src="https://github.com/marlenezw/marlenezw/blob/main/purpleyoutube.png"/></a>
+  <a href="https://www.youtube.com/@marlenezw"><img width="32px" alt="Youtube" title="Youtube" src="https://github.com/marlenezw/marlenezw/blob/main/purpleyoutube.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/marlene_zw"><img width="32px" alt="Twitter" title="Twitter" src="https://github.com/marlenezw/marlenezw/blob/main/twitter.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -31,9 +31,9 @@
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
 <!-- View counter - https://github.com/antonkomarev/github-profile-views-counter -->
 <p align="center">
-  <a href="https://www.youtube.com/channel/UCl3aV8OUXRroWvvAiU66DOw?sub_confirmation=1">
+  <a href="https://www.youtube.com/channel/@marlenezw?sub_confirmation=1">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.herokuapp.com/youtube/channel/subscribers/UCl3aV8OUXRroWvvAiU66DOw?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-  <a href="https://www.youtube.com/channel/UCl3aV8OUXRroWvvAiU66DOw">
+  <a href="https://www.youtube.com/channel/@marlenezw">
     <img alt="follow twitter" title="Follow Twitter" src="https://img.shields.io/twitter/follow/marlene_zw?color=%23E1AD0E&logo=person-fill&label=twitter&style=for-the-badge&labelColor=C79600"/></a> 
   <a href="https://github.com/marlenezw?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/github/stars/marlenezw?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
@@ -132,7 +132,7 @@
 
 <h3 align="center">
   <img src="https://media.giphy.com/media/SEhNCww9vGLAc/giphy.gif" width="28">
-  <a href="https://www.youtube.com/channel/UCl3aV8OUXRroWvvAiU66DOw?sub_confirmation=1">
+  <a href="https://www.youtube.com/channel/@marlenezw?sub_confirmation=1">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.herokuapp.com/youtube/channel/subscribers/UCl3aV8OUXRroWvvAiU66DOw?color=a020f0&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=8f00ff"/></a> 
  <img src="https://media.giphy.com/media/SEhNCww9vGLAc/giphy.gif" width="28">
   
